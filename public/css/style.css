@@ -1,0 +1,19 @@
+
+.icon-block {
+    padding: 0 15px;
+  }
+  .icon-block .material-icons {
+      font-size: inherit;
+  }
+  
+  nav .logo{
+    margin-left: 50px;
+  }
+  .about{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  #projects{
+    margin-top: 100px;
+  }
